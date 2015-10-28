@@ -89,7 +89,6 @@ GUI modifications
 
 * The Overview display for a device in the /Server/Linux/Blah class has been extended in the
 middle-upper panel to include ......
-
 * The component display for a newComponent1 has a dropdown menu to show all related newSubComponentX.  
 The newSubComponentX component has a link back to its related newComponent1.
 
