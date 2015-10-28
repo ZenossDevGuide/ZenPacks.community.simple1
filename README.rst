@@ -116,16 +116,19 @@ Requirements & Dependencies
 
         <module 'yaml' from '/opt/zenoss/lib/python2.7/site-packages/PyYAML-3.11-py2.7-linux-x86_64.egg/yaml/__init__.py'>
 
-  - If pyYAML is not installed, install it, as the zenoss user, with::
+    If pyYAML is not installed, install it, as the zenoss user, with::
 
         easy_install PyYAML
 
-  and then rerun the test above.
+    and then rerun the test above.
 
 
-* ZenPack Dependencies: PythonCollector >= 1.6
-* Installation Notes: Restart zenoss entirely after installation
-* Configuration: Add the blah modeler plugin to the /Server/Linux/Blah device class
+* ZenPack Dependencies: 
+  - PythonCollector >= 1.6
+* Installation Notes: 
+  - Restart zenoss entirely after installation
+* Configuration: 
+  - Add the blah modeler plugin to the /Server/Linux/Blah device class
 
 
 Download
