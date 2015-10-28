@@ -23,6 +23,7 @@ Monitoring Templates
 --------------------
 
 * Device templates
+
   - SnmpPacketsInOut
   - test COMMAND template
 
@@ -44,6 +45,7 @@ Requirements & Dependencies
 * Zenoss Versions Supported:  3.x, 4.x, 5.x
 * External Dependencies: 
 * Installation Notes: 
+
   - For Zenoss Core 3.x and 4.x, restart zenhub and zopectl
   - For Zenoss Service Dynamics, restart zenoss entirely after installation
   - For Zenoss 5, restart zenoss entirely after installation
