@@ -107,9 +107,8 @@ Requirements & Dependencies
 * Zenoss Versions Supported:  4.x
 * External Dependencies: 
 
-- The zenpacklib package that this ZenPack is built on, requires PyYAML.  This is installed as 
-standard with Zenoss 5 and with Zenoss 4 with SP457.  To test whether it is installed, as
-the zenoss user, enter the python environment and import yaml::
+  - The zenpacklib package that this ZenPack is built on, requires PyYAML.  This is installed as standard with Zenoss 5 and with Zenoss 4 with SP457.  
+    To test whether it is installed, as the zenoss user, enter the python environment and import yaml::
 
         python
         import yaml
@@ -117,11 +116,11 @@ the zenoss user, enter the python environment and import yaml::
 
         <module 'yaml' from '/opt/zenoss/lib/python2.7/site-packages/PyYAML-3.11-py2.7-linux-x86_64.egg/yaml/__init__.py'>
 
-If pyYAML is not installed, install it, as the zenoss user, with::
+  - If pyYAML is not installed, install it, as the zenoss user, with::
 
         easy_install PyYAML
 
-and then rerun the test above.
+  and then rerun the test above.
 
 
 * ZenPack Dependencies: PythonCollector >= 1.6
