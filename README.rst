@@ -27,22 +27,21 @@ when the new version is proven.
 
 Device Classes
 --------------
- This is jhjha 
 
-    * /Server/Linux/Blah
+* /Server/Linux/Blah
 
 Configuration Properties (zProperties)
 --------------------------------------
 
-    * zBlah     string            default is 22222
+* zBlah     string            default is 22222
 
 
 Device and component object classes
 -----------------------------------
-    * newDevice
-    * newComponent1
-    * newComponent2
-    * newSubComponentX
+* newDevice
+* newComponent1
+* newComponent2
+* newSubComponentX
 
 where newDevice -> contains many newComponent1 components -> contains many newSubComponentX components.
 
@@ -58,11 +57,11 @@ Datasources and Parsers
 Monitoring Templates
 --------------------
 
-    * Device templates
-      - template1
+* Device templates
+- template1
 
-    * Component templates
-      - template 2
+* Component templates
+- template 2
 
 
 Daemons
