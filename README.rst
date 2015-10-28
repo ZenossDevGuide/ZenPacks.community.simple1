@@ -58,10 +58,10 @@ Monitoring Templates
 --------------------
 
 * Device templates
-- template1
+  - template1
 
 * Component templates
-- template 2
+  - template 2
 
 
 Daemons
@@ -100,9 +100,9 @@ that this is not decreased.
 Requirements & Dependencies
 ===========================
 
-    * Zenoss Versions Supported:  4.x
-    * External Dependencies: 
-      - The zenpacklib package that this ZenPack is built on, requires PyYAML.  This is installed as 
+* Zenoss Versions Supported:  4.x
+* External Dependencies: 
+  - The zenpacklib package that this ZenPack is built on, requires PyYAML.  This is installed as 
       standard with Zenoss 5 and with Zenoss 4 with SP457.  To test whether it is installed, as
       the zenoss user, enter the python environment and import yaml::
 
@@ -119,9 +119,9 @@ Requirements & Dependencies
       and then rerun the test above.
 
 
-    * ZenPack Dependencies: PythonCollector >= 1.6
-    * Installation Notes: Restart zenoss entirely after installation
-    * Configuration: Add the blah modeler plugin to the /Server/Linux/Blah device class
+* ZenPack Dependencies: PythonCollector >= 1.6
+* Installation Notes: Restart zenoss entirely after installation
+* Configuration: Add the blah modeler plugin to the /Server/Linux/Blah device class
 
 
 Download
