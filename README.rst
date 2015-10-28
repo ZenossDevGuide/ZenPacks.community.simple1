@@ -31,6 +31,7 @@ Events
 ------
 
 * /Chipcom
+
   - chipFatal event class mapping
 
 MIBs
