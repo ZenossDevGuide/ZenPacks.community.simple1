@@ -79,7 +79,7 @@ Change History
 
 .. External References Below. Nothing Below This Line Should Be Rendered
 
-.. _Latest Package for Python 2.7: https://github.com/jcurry/ZenPacks.community.simple1/blob/master/dist/ZenPacks.community.simple1-1.0.0-py2.7.egg?raw=true
+.. _Latest Package for Python 2.7: https://github.com/ZenossDevGuide/ZenPacks.community.simple1/blob/DevGuide/dist/ZenPacks.community.simple1-1.0.0-py2.7.egg?raw=true
 
 Acknowledgements
 ================
