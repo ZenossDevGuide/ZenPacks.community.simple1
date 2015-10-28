@@ -60,7 +60,7 @@ below.
 * Zenoss 4.0+ `Latest Package for Python 2.7`_
 
 ZenPack installation
-======================
+=====================
 
 This ZenPack can be installed from the .egg file using either the GUI or the
 zenpack command line. 
