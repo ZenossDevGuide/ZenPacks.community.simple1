@@ -27,6 +27,7 @@ when the new version is proven.
 
 Device Classes
 --------------
+ This is jhjha 
 
     * /Server/Linux/Blah
 
