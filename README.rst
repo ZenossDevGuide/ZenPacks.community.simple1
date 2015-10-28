@@ -40,8 +40,8 @@ Device and component object classes
 -----------------------------------
 * newDevice
 * newComponent1
+  + newSubComponentX
 * newComponent2
-* newSubComponentX
 
 where newDevice -> contains many newComponent1 components -> contains many newSubComponentX components.
 
@@ -58,10 +58,10 @@ Monitoring Templates
 --------------------
 
 * Device templates
-  - template1
+  + template1
 
 * Component templates
-  - template 2
+  + template 2
 
 
 Daemons
