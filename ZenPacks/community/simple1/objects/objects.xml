@@ -903,7 +903,7 @@ readwrite
 <object id='chipEchoResponseCounts' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The count of ICMP echo response packets received since
-the last PING was initiated. 
+the last PING was initiated.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -1280,7 +1280,7 @@ node
 <object id='chipTFTPFileName' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The file name of the file to retrieve (tftpGet), or the
-name of the file to create (tftpPut). 
+name of the file to create (tftpPut).
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -2029,7 +2029,7 @@ node
 </object>
 <object id='oc60nnMMGTModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -2261,7 +2261,7 @@ readonly
 </object>
 <object id='oc60nnMRCTLModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -2564,7 +2564,7 @@ node
 </object>
 <object id='oc61nnDMGTModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -2849,7 +2849,7 @@ readonly
 <object id='oc61nnDMGTModTable' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 A table that contains information about Ethernet
-Network Monitor Cards in the ONcore Hub.  
+Network Monitor Cards in the ONcore Hub.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -3007,7 +3007,7 @@ node
 </object>
 <object id='oc61nnMCARModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -3131,7 +3131,7 @@ node
 </object>
 <object id='oc61nnMFBPModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -3505,7 +3505,7 @@ node
 </object>
 <object id='oc61nnMTPLModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -3942,7 +3942,7 @@ node
 </object>
 <object id='oc62nnDMGTModBootVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software boot eprom version of this module.  
+The software boot eprom version of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -7278,7 +7278,7 @@ readonly
 </object>
 <object id='ocModVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software version number of this module.  
+The software version number of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -9206,7 +9206,7 @@ readonly
 <object id='ol50nnMHCTLModTable' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 A table that contains information about each 50nnM-HCTL
-in the concentrator.  
+in the concentrator.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -9530,7 +9530,7 @@ readonly
 <object id='ol50nnMRCTLModTable' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 A table that contains information about each 50nnM-RCTL
-in the concentrator.  
+in the concentrator.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -12556,7 +12556,7 @@ readwrite
 </object>
 <object id='ol51nnMFLPortBuddySlot' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The slot index of the redundant port's buddy.   
+The slot index of the redundant port's buddy.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -24417,7 +24417,7 @@ readonly
 <object id='olConcReset' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 Setting this value to reset(2) causes this concentrator to
-reset. 
+reset.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -25171,7 +25171,7 @@ readonly
 <object id='olEnetStatsModRunts' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The count of the number of frames received by
-this module that are less than 512 bits long.  
+this module that are less than 512 bits long.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -25598,7 +25598,7 @@ readonly
 <object id='olEnetStatsPortRunts' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The count of the number of frames received by this port that
-are less than 512 bits long.  
+are less than 512 bits long.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -25695,7 +25695,7 @@ in each Ethernet (IEEE 802.3) network.
 <object id='olEnetStatsRunts' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The count of the number of frames received by this network
-that are less than 512 bits long.  
+that are less than 512 bits long.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -25881,7 +25881,7 @@ Identifies the power supply for which this entry contains
 power supply information.  For systems with the
 primary and backup power supply (as opposed to
 the N+1 design), index 1 refers to the primary,
-and index 2 refers to the backup. 
+and index 2 refers to the backup.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -28158,7 +28158,7 @@ locations 1, 3 and 8.
 ----------------------------------------------------
 
 In all of the above, the index for all of these tables
-is condensed out of the summary. 
+is condensed out of the summary.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -28465,7 +28465,7 @@ readonly
 </object>
 <object id='olModVersion' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
-The software version number of this module.  
+The software version number of this module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -28513,7 +28513,7 @@ node
 The data path on the backplane.  Data paths between
 different protocols overlap.  That is, an ethernet data
 path will overlap with multiple token ring and fddi data
-paths. 
+paths.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -30775,7 +30775,7 @@ Some ports, such as integrated bridge or router ports
 do not support this feature. A getRequest on one of these
 types of  ports will return a value of other(3), and a
 setRequest to enable(1) or disable(2) will return
-the invalidData object. 
+the invalidData object.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -30930,7 +30930,7 @@ readwrite
 <object id='olPortNetworkType' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The network type of this port.  The type reflects the
-valid values for olPortNetwork. 
+valid values for olPortNetwork.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -31028,7 +31028,7 @@ connections.  The OEBM, for example, has two logical
 ports, although those two ports can be assigned to
 different combinations of four physical connections.
 media(2) refers to ports such as those on the 10BASE-T
-module. 
+module.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -36077,7 +36077,7 @@ readwrite
 <object id='olTrunkNetworkType' module='Products.ZenModel.MibNode' class='MibNode'>
 <property id='zendoc' type='string'>
 The network type of this trunk.  The type reflects the
-valid values for olTrunkNetwork. 
+valid values for olTrunkNetwork.
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -36540,7 +36540,7 @@ with the slot indicated by chipModSlotIndex has been
 established.  This event usually occurs when a module has
 physically been inserted into the concentrator.  The
 variable chipModType indicates the module type inserted.
-For 
+For
 </property>
 <property type="string" id="moduleName" mode="w" >
 CHIPCOMMIB
@@ -36623,7 +36623,7 @@ traps may be sent if the port's status changes from
 one error to another.
 </property>
 <property type="lines" id="objects" mode="w" >
-{'olPortIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortAdminState': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortStatus': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortSlotIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}}
+{'olPortIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortSlotIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortAdminState': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortStatus': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}}
 </property>
 </object>
 <object id='chipPortUp' module='Products.ZenModel.MibNotification' class='MibNotification'>
@@ -36648,7 +36648,7 @@ A chipPortUp trap indicates that a port's status
 has changed to a non-error (okay or warning) condition.
 </property>
 <property type="lines" id="objects" mode="w" >
-{'olPortIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortAdminState': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortStatus': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortSlotIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}}
+{'olPortIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortSlotIndex': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortAdminState': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}, 'olPortStatus': {'nodetype': 'object', 'module': 'CHIPCOMMIB'}}
 </property>
 </object>
 <object id='chipSecurity' module='Products.ZenModel.MibNotification' class='MibNotification'>
