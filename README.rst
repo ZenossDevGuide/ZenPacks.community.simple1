@@ -148,7 +148,7 @@ ZenPack installation
 This ZenPack can be installed from the .egg file using either the GUI or the
 zenpack command line. 
 
-To install in development mode, find the repository on github and use the ZIP button
+To install in development mode, find the repository on github and use the *Download ZIP* button
 (right-hand margin) to download a tgz file and unpack it to a local directory, say,
 /code/ZenPacks .  Install from /code/ZenPacks with::
   zenpack --link --install ZenPacks.community.simple1
