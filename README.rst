@@ -124,10 +124,15 @@ Requirements & Dependencies
 
 
 * ZenPack Dependencies: 
+
   - PythonCollector >= 1.6
+
 * Installation Notes: 
+
   - Restart zenoss entirely after installation
+
 * Configuration: 
+
   - Add the blah modeler plugin to the /Server/Linux/Blah device class
 
 
