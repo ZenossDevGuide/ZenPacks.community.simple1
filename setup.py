@@ -4,7 +4,7 @@
 # NB: PACKAGES is deprecated
 NAME = "ZenPacks.community.simple1"
 VERSION = "1.0.0"
-AUTHOR = "Jane Curry"
+AUTHOR = "Jane Curry - jane.curry@skills-1st.co.uk (ZenossDevGuide)"
 LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.simple1']
